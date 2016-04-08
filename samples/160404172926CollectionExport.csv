@@ -1,0 +1,12 @@
+"/atg/commerce/catalog/ProductCatalog:category",,,,"LOCALE=en",,,,,,
+"ID","name","displayName","description","longDescription","myActive","fixedChildProducts","fixedChildCategories","seoDescription","seoKeywords","seoTitle"
+"E1",,"Electronics","Electronics collection","<p>Electronics collection including mobiles, tablets, PCs, gaming console etc.</p>",TRUE,"HL604","mobile, khkh",,,
+"gym",,"Gym Equipments","gym",,TRUE,"treadmill1",,,,
+"khkh",,"Appliances","home appliances",,TRUE,"videocon879, lgfront001",,,,
+"mobile",,"Mobiles","mobile phones",,TRUE,"nexu6, HL604",,,,
+"Men",,"Men","Men","Men",TRUE,"HawtLikeaHabaneroShirtMen",,,,
+"HotSauces",,"Hot Sauces","Hot Sauces","Hot Sauces",TRUE,"SweetDeathSauce, SuddenDeathSauce, HoppinHotSauce, DayoftheDeadChipotleHotSauce, DayoftheDeadHabaneroHotSauce, DayoftheDeadScotchBonnetHotSauce, GreenGhost, BlazinSaddleXXXHotHabaneroPepperSauce, ArmageddonTheHotSauceToEndAll, DrChilemeistersInsaneHotSauce, BullSnortCowboyCayennePepperHotSauce, CafeLouisianeSweetCajunBlackeningSauce, BullSnortSmokiToncilsHotSauce, CoolCayennePepperHotSauce, RoastedGarlicHotSauce, ScotchBonnetHotSauce, InsanitySauce, HurtinJalepenoHotSauce, RoastedRedPepperAndChipotleHotSauce",,,,
+"Merchandise",,"Merchandise","Merchandise","Merchandise",TRUE,,"Men",,,
+"nonNavigableCategory","Non-Navigable","Non-Navigable",,"Cloud Commerce Non-Navigable",,,,,,
+"rootCategory","Commerce Cloud Root Category","Storefront Navigation",,"Commerce Cloud Root Category",,,"sports, E1,HotSauces, Merchandise",,,
+"sports",,"Sports","sports",,TRUE,"basketball234","gym",,,
